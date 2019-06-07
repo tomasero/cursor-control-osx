@@ -1,6 +1,5 @@
 ## Cursor Control OSX
-
-    UDP Socket to Native Cursor Control for OSX
+    OSX native cursor control with UDP socket
 
 ### Installation
 
